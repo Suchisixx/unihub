@@ -9,7 +9,7 @@ UniHub là một ứng dụng di động được thiết kế nhằm hỗ trợ
 - **Quản lý Thời khóa biểu:** Xem lịch học chi tiết theo ngày/giờ, hỗ trợ thêm lịch thủ công hoặc nhập file để tạo lịch tự động.
 - **Quản lý Thu chi:** Theo dõi các giao dịch tài chính hàng ngày, lọc giao dịch theo thời gian và xem tổng quan ngân sách.
 - **Ghi chú & Nhắc nhở:** Lưu trữ các thông tin quan trọng và nhắc lịch học, lịch thi.
-- **Quản lý Điểm số:** Theo dõi kết quả học tập cá nhân.
+- **Quản lý học kỳ và ôn tập môn học thông minh:** Cá nhân hóa học tập và thời gian học.
 
 ## 🛠 Công nghệ sử dụng
 
