@@ -31,9 +31,9 @@ UNIHUB/
 
 Tầng giao diện: Quản lý màn hình trong expo/screens và trạng thái dữ liệu trong expo/context.
 Tầng logic: Xử lý nghiệp vụ tại express/controllers và định tuyến API tại express/routes.
-
-## ⚙️ Cài đặt & Chạy thử
 ```
+## ⚙️ Cài đặt & Chạy thử
+```text
 Yêu cầu hệ thống
 Node.js (phiên bản mới nhất)
 
@@ -60,3 +60,4 @@ Bash
 cd ../expo
 npm install
 npx expo start
+```
