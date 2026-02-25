@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "react-navigation": "^5.0.0"
+  }
+}
